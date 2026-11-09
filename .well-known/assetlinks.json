@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "br.com.resgatecnica.ponto",
       "sha256_cert_fingerprints": [
-        "12:E6:85:5D:01:2E:B5:5C:E7:3F:96:34:1F:F2:D7:F4:22:34:49:67:62:16:20:12:16:EF:FF:CE:13:B1:77:D1"
+        "12:E6:85:5D:01:2E:B5:5C:E7:3F:96:34:1F:F2:D7:F4:22:34:49:67:62:16:20:12:16:EF:FF:CE:13:B1:77:D1",
+        "1D:96:FF:C1:AF:06:78:6A:0D:C8:BF:89:EE:D2:B3:22:D7:66:E6:FC:1A:50:D9:69:8C:AD:CA:3C:ED:49:95:0B"
       ]
     }
   }
